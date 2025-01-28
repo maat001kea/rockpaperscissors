@@ -1,3 +1,9 @@
+// Inspireret af opgaven gæt et tal 
+// Kilde: https://github.com/maat001kea/Gaet_Et_Tal
+// Inspireret af GeeksforGeeks artikel om Rock, Paper, Scissors-spil
+// Kilde: https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/
+
+
 // Vent på at hele siden er indlæst
 window.onload = function() {
 
